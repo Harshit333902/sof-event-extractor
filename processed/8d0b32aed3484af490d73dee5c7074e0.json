@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "event": "Berth",
+      "start_time": "28 NOVMBER 2015 03:10",
+      "end_time": "06:00",
+      "raw_context": "Uban and anchor At Kuala, standby to Berth by"
+    },
+    {
+      "event": "Loading",
+      "start_time": "06:00",
+      "end_time": null,
+      "raw_context": "@06:00hrs 6.Loading commenced:"
+    },
+    {
+      "event": "Anchorage",
+      "start_time": "12:30",
+      "end_time": null,
+      "raw_context": "- 29 Nov @12:30 Vessel arrived to Johor Anchorage."
+    },
+    {
+      "event": "Loading",
+      "start_time": "15:00",
+      "end_time": null,
+      "raw_context": "7.Loading completed"
+    },
+    {
+      "event": "Discharging",
+      "start_time": "15:00",
+      "end_time": "11:15",
+      "raw_context": "9.Discharging commenced"
+    },
+    {
+      "event": "Discharging",
+      "start_time": "11:15",
+      "end_time": "15:35",
+      "raw_context": "10.Discharging"
+    }
+  ],
+  "raw_text": "MAC MARINE RESOURCES SDN BHD (co.No.927763-x)\n\nD 05 MC-JTP Concept Building, PLO 683 Jalan Keluli,\n\n— Pasir Gudang Industrial Estate, 81700 Pasir Gudang, Johor\n_—————— Tel/Fax: +607-2512372 | Mobile; +6016-6516502\n\nne Email; macmarineresources@qmail.com | Website: www.maccargo.net\naeeeeae Se ee PDA Official No. 17388\n\nTEME ACT\n\n1.CHARTRER\n\nPT.SINAR BARA RAYA\nKomp.Acellence Blok A no. 11 Pasir Putih\n\n- Batam\n\n2.Vessel Name 3. Owner:\n\nSULAIMAN MAC MARINE RESOURCES SDN BHD\n3.Port: POL TANJUNG UBAN Agent At POL:PT PELITA ANUGERAH BAHARI\n-28 NOVMBER 2015 03:10 Vessel Arrive to Tanjung | Agent At POD: SILVER BASE\nUban and anchor At Kuala, standby to Berth by\n@06:00hrs 6.Loading commenced:\n- Quarantine (Health department) and Immigration on | 28Nov @11:30\nboard for checking.\nIndonesia time\n6. Port POD TANJUNG LANGSAT PORT\n- 29 Nov @12:30 Vessel arrived to Johor Anchorage.\nSunday 29 Nov up to 1\" December Vessel Stand by for\ndischarge.\nDate Of Discharge Fixed by Technip.\n\n7.Loading completed\n28Nov @15:00\n\n9.Discharging commenced\n1\" Dec @11:15\n\n10.Discharging\ncompleted\n@15:35 7\n12.Vessel sailed POL\n29NOV@07:00\n\n11.Cargo document on\nboards POL: 28NOV\n@22:30\n\n14. End User ( not provide)\n\n13.Charter Party:\n\nPT.SINAR BARA RAYA\nKomp.Acellence Blok A no. 11 Pasir Putih -\nBatam\n\n15.Bill of Lading Tnajung Uban Agent\n17.PAYMENT ACKNOWLEDGE: _| PT.SINAR BARA RAYA\n19.Notice of readiness Copy of letter Attached\n\nIssued By 30Novemebr 2015\n\n"
+}

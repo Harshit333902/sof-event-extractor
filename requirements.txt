@@ -1,0 +1,11 @@
+streamlit
+pandas
+fastapi
+uvicorn
+pdfplumber
+pymupdf
+python-docx
+python-multipart
+requests
+azure-ai-formrecognizer
+azure-core

@@ -1,0 +1,7 @@
+event,start_time,end_time,raw_context
+Berth,28 NOVMBER 2015 03:10,06:00,"Uban and anchor At Kuala, standby to Berth by"
+Loading,06:00,,@06:00hrs 6.Loading commenced:
+Anchorage,12:30,,- 29 Nov @12:30 Vessel arrived to Johor Anchorage.
+Loading,15:00,,7.Loading completed
+Discharging,15:00,11:15,9.Discharging commenced
+Discharging,11:15,15:35,10.Discharging
